@@ -1,6 +1,6 @@
 # now-catch-all-test
 
-This iste using `[...slug].tsx` as the catch-all route.
+This site is using `[...slug].tsx` as the catch-all route.
 
 In local development, visiting `/` should show **The slug is: home!**
 
