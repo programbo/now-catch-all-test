@@ -13,8 +13,7 @@ const Home = ({ slug }) => (
         The slug is: <code>{slug}</code>!
       </h1>
       <p className="description">
-        The rewrite rule in <code>now.json</code> redirects <code>/</code> to{' '}
-        <code>/home</code>.
+        The rule in <code>now.json</code> rewrites <code>/</code> to <code>/home</code>.
       </p>
     </div>
 
